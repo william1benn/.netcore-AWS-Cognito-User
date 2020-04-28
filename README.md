@@ -11,3 +11,11 @@ Run the sample in Debug mode by typing F5.
 
 You will need to install Nuget package of AWS-SDK .netcore and AWS-SDK Cognito Package.
 
+
+
+
+##### _This was made for a personal use case_
+
+
+
+
